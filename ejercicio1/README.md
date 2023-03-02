@@ -8,6 +8,3 @@ git config global user.email "juanpadarve@hotmail.com"
 git init
 git add .
 git commit m 'Version Inicial'
-hola mundo
-
-jhfgvcjuigh
